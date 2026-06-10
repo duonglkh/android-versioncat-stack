@@ -94,7 +94,7 @@ For projects that want auto-bumps, see [Renovate](https://github.com/renovatebot
 
 ## Part of the `android-template-base` ecosystem
 
-This is repo #2 of a planned set. See [hidev.github.io](https://hidev.github.io/#projects) for the full roster.
+This is repo #2 of a planned set. See [duonglkh.github.io](https://duonglkh.github.io/#projects) for the full roster.
 
 ## License
 
